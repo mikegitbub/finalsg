@@ -26,11 +26,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Les communiqués
 
-* [Nomination du SG et SGA]()
+* [Nomination du SG et SGA](https://docs.google.com/document/d/1DEzEPnYdiH38JUHv_PiaMiLxUPboo1PjXak8Nu-xikg/edit?usp=sharing)
 
 * [Nomination des Vices Présidents et Conseillers](https://docs.google.com/document/d/1waRmRE2EJBTnb1CgSMzW2-TCgpvphRp6/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
-* [Nomination des présidents de commission]()
+* [Nomination des présidents de commission](https://docs.google.com/document/d/1XQtPXkoATjviC0ytu16CeAfy5TxszoLz/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
 * [Urgence Médicale Gohui Yao AS28](https://docs.google.com/document/d/1IQ5CI04vT5k8zD6QhxgfwNeGF0lHaAMQ/edit?usp=sharing&ouid=101365254398585075231&rtpof=true&sd=true)
 
